@@ -20,7 +20,7 @@ async_client = AsyncTogether(api_key=os.environ.get("TOGETHER_API_KEY"))
 
 from transformers import AutoTokenizer
 from huggingface_hub import login
-login("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")
+login("")
 
 
 def process_fn(
