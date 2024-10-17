@@ -1,0 +1,1 @@
+The dataset contains problems from the Valid and Test splits of the CodeContests dataset, which features competitive programming challenges. These problems have been adapted for specific tasks to assess the effectiveness of various code generation and evaluation methods in a competitive coding context.
