@@ -13,7 +13,7 @@ random.seed(42)
 import argparse
 import re
 
-os.environ['TOGETHER_API_KEY'] = '28d76a81843ff91a3cb38388b57beee07bf1876001c4ba992a645fc3ed433fb0'
+os.environ['TOGETHER_API_KEY'] = ''
 client = Together(api_key=os.environ.get("TOGETHER_API_KEY"))
 async_client = AsyncTogether(api_key=os.environ.get("TOGETHER_API_KEY"))
 
