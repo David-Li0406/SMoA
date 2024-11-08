@@ -46,7 +46,7 @@ Query: {}
 Response: {}
 Provide the reasoning and given score for the response formatted according to the output schema above: '''
 
-api_key = 'sk-jfhonAkNxKzfViMm5dD93d8d8a0844D7B4160bE837A024Fa'
+api_key = ''
 headers = {
     'Content-Type': 'application/json',
     'Authorization': f'Bearer {api_key}',
